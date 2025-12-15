@@ -1,0 +1,19 @@
+BasicInfo:
+Title : “Color Switcher”
+Publisher : “AllisterMKW”
+ProductCode : “CTR-P-COLR”
+ContentType : Application
+Logo : Nintendo
+
+TitleInfo:
+Category : Application
+UniqueId : 0xF0011
+
+RomFs:
+RootPath : romfs
+
+Icon:
+Path : icon.png
+
+Banner:
+Path : banner.bin
